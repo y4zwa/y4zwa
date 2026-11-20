@@ -1,5 +1,5 @@
 {
- "key": "ec172e16",
+ "key": "7532503b",
  "stars": 1,
  "contributions": 94,
  "repos": 3,
@@ -179,14 +179,14 @@
    "topics": [
     "amneziawg",
     "android",
-    "censorship-circumvention",
     "clash-meta",
     "cloudflare-warp",
     "gomobile",
     "hysteria2",
     "jetpack-compose",
     "kotlin",
-    "material-you"
+    "material-you",
+    "material3"
    ]
   },
   {
