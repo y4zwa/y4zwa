@@ -1,13 +1,13 @@
 {
- "key": "57457e06",
+ "key": "53d1aa46",
  "stars": 1,
- "contributions": 96,
+ "contributions": 98,
  "repos": 3,
  "followers": 0,
  "languages": [
   [
    "Kotlin",
-   1480806
+   1526288
   ],
   [
    "Vue",
@@ -23,7 +23,7 @@
   ],
   [
    "Go",
-   27631
+   30695
   ],
   [
    "HTML",
@@ -35,43 +35,6 @@
   ]
  ],
  "days": [
-  [
-   {
-    "c": 0,
-    "day": 1,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 2,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 3,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 4,
-    "today": false
-   },
-   {
-    "c": 2,
-    "day": 5,
-    "today": false
-   },
-   {
-    "c": 4,
-    "day": 6,
-    "today": false
-   },
-   {
-    "c": 0,
-    "day": 7,
-    "today": false
-   }
-  ],
   [
    {
     "c": 2,
@@ -143,13 +106,26 @@
    {
     "c": 2,
     "day": 21,
-    "today": true
+    "today": false
    }
+  ],
+  [
+   {
+    "c": 2,
+    "day": 22,
+    "today": true
+   },
+   null,
+   null,
+   null,
+   null,
+   null,
+   null
   ]
  ],
  "streak": {
-  "current": 6,
-  "longest": 6
+  "current": 7,
+  "longest": 7
  },
  "pins": [],
  "all": [
